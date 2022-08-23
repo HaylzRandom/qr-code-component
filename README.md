@@ -39,8 +39,8 @@ Here are some related projects
 
 Desktop
 
-![Desktop Screenshot](./screenshots/desktop-screenshot.png)
+<img src="./screenshots/desktop-screenshot.png" alt="Desktop Screenshot" width="500">
 
 Mobile
 
-![Mobile Screenshot](./screenshots/mobile-screenshot.png)
+<img src="./screenshots/mobile-screenshot.png" alt="Mobile Screenshot" width="320">
